@@ -1,0 +1,14 @@
+onlineShop/model/Product.class
+onlineShop/model/ShippingAddress.class
+onlineShop/log/ServerLogger.class
+onlineShop/log/Logger.class
+onlineShop/ApplicationConfig.class
+onlineShop/model/Cart.class
+onlineShop/Application.class
+onlineShop/model/SalesOrder.class
+onlineShop/model/Customer.class
+onlineShop/model/CartItem.class
+onlineShop/model/Authorities.class
+onlineShop/model/User.class
+onlineShop/model/BillingAddress.class
+onlineShop/log/PaymentAction.class
