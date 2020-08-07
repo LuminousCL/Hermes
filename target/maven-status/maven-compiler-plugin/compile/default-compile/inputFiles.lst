@@ -3,6 +3,7 @@
 /Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/log/PaymentAction.java
 /Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/dao/CustomerDao.java
 /Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/ApplicationConfig.java
+/Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/SecurityConfig.java
 /Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/SalesOrder.java
 /Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/Application.java
 /Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Product.java
@@ -11,6 +12,7 @@
 /Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/controller/HomePageController.java
 /Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Authorities.java
 /Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/User.java
+/Users/arthur/eclipse-workspace/onlineShop/src/main/java/module-info.java
 /Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/log/Logger.java
 /Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/log/ServerLogger.java
 /Users/arthur/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Customer.java
