@@ -5,4 +5,4 @@
 
 # Hermes: a Spring and Hibernate based Shopping and Ordering system
 
-<img src="images/shopping.jpg" width="50%" height="50%">
+<img src="images/shopping.png" width="50%" height="50%">
